@@ -41,3 +41,5 @@ Su desventaja es la necesidad de realizar un calculo manual desde el editor.
 ---
 ## Versión Jugable
 [Probar en Itch.io] https://rhifumi.itch.io/minitest-rinirollaball
+
+![Escena de juego](Screenshots/MiniTestRiniRollABall2.png)
